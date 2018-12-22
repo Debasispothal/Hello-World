@@ -1,0 +1,38 @@
+,0
+0,COMMIT makes permanent the changes resulting from all SQL statements in the transaction. The changes made by the SQL statements of a transaction become visible to other user sessions transactions that start only after transaction is committed.
+1,f) Embedded Sql :: Incorporate DDL DML and T.C.S in Programming Language.e.g:: Using the Sql Statements in languages such as 'C'  Open Fetch  execute and close
+2,COMMIT makes permanent the changes resulting from all SQL statements in the transaction. The changes made by the SQL statements of a transaction become visible to other user sessions transactions that start only after transaction is committed.
+3,Function key triggers are associated with individual SQL*FORMS function keys You can attach Key function triggers to 10 keys or key sequences that normally do not perform any SQL * FORMS operations. These keys referred as key F0 through key F9.
+4,Output caching is a powerful technique that increases request/response throughput by caching the content generated from dynamic pages. Output caching is enabled by default  but output from any given response is not cached unless explicit action is taken to make the response cacheable.
+5,For long transactions that contain many SQL statements  intermediate markers or savepoints can be declared which can be used to divide a transaction into smaller parts. This allows the option of later rolling back all work performed from the current point in the transaction to a declared savepoint within the transaction.
+6,The SQL Writer service was introduced to handle access to the data files in SQL Server. It allows backup programs  like VSS  to function while SQL Server is still running.
+7,"Questions were fired one after another from deadlock  critical section  memory management. He then again shifted to SQL and gave simple queries to write. I got confused in two and I politely said ""I do not know Sir"". Rest I was confident that I was correct. He tried to confuse me but I remained intact to my points. He then asked basics of C- pointers and functions  preprocessors directives and their functions."
+8,The data dictionary cache is stored in an area in SGA called the Shared SQL Pool. This will allow sharing of parsed SQL statements among concurrent users.
+9,7. He asked about inheritance  polymorphism  abstraction  encapsulation  etc
+10,You can use tracer tokens in SQL Server 2005 replication to measure latencies. These are small amounts of data written into your transaction logs.
+11,For IS/CS DBMS basic knowledge  SQL queries is a must  few C program and C++ concept like inheritance  polymorphism etc  networking concepts is also important.
+12,Q) Tell the commands of ddl dml dcl  &tcl command?s.
+13,How can SQL Server Agent Mail send messages in SQL Server 2005?
+14,You are developing security policy for your SQL Servers and have all of the data entry clerks needing access to a series of tables. You create a Data Entry role and assign the proper permissions as well as add the users.
+15,You have noticed in both your SQL Server 2000 and 2005 instances that when a database grows in SQL Server  there is a delay in the database response. Why is that?
+16,This section is also moderate and some questions are high level. There is 10 questions from unix  10 questions from sql  last 10 questions from C  Java  C++ based on your selection when you're starting exam. Better to choose C. Unix and sql is mandatory.
+17,I attended Virtusa written test in Hyderabad. Written test consists of two sections. First section they asked on SQL  Java  UML  Software Engineering. SQL questions based on Joins. Try to understand question much quicker.
+18,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+19,If you have good domain knowledge and concepts like Java OOPS  DBMS and SQL Queries  Data structures  you can easily crack this interview. Never forget to prepare your final year project. prepare DBMS specially(join  normalization  transaction  acid properties).
+20,SQL Server is a DBMS system provided by Microsoft. SQL Server is sometimes mistakenly referred to as SQL.
+21,This level of error severity indicates a transaction deadlock error.
+22,He asked me diff btwn array n linked list  polymorphism  encapsulation  water jug problem  a puzzle  basic C prog.
+23,30. Which scheduling technique is used in Windows XP? ( I Explained the scheduling technique used in UNIX and VAX/ VMX systems.)
+24,16. Are CPU Scheduling and Process Scheduling different?
+25,This level of error severity indicates a transaction deadlock error.
+26,Next they asked about SQL and Unix. In SQL how to delete duplicates in a table like:
+27,c) Transaction Control Statements :: Manage change by DML
+28,6. dcl  dml  ddl language and example.
+29,- C++ questions like POLYMORPHISM  RUNTIME POLYMORPHISM  INHERITANCE etc.
+30,Can one use dynamic SQL within PL/SQL? OR Can you use a DDL in a procedure ? How ?
+31,On 21st I was called for interview  I just had 2 days 2 prepare for the interview  n in Aricent they can ask each n every thing that you must have studied.. I toiled v hard day n night revised almost everything Data Structures  OS  DCN  C  C++  s/w engineering  SDLC  Normalization  keys  SQL  Unix etc.
+32,A few SQL queries were also asked (find second highest salary from a table) and SQL concepts like view  trigger  etc.
+33,SQL * DBA - This allows DBA to monitor and control an ORACLE database. SQL * Loader - It loads data from standard operating system files (Flat files) into ORACLE database tables. Export (EXP) and Import (imp) utilities allow you to move existing data in ORACLE format to and from ORACLE database.
+34,The answer is Create a DDL trigger on CREATE_PROCEDURE database event You can find the answer on page 448 of Beginning SQL Server 2005 for Developers: From Novice to Professional
+35,Can a particular event in SQL Server 2005  such as the CREATE USER command  have more than one DDL trigger assigned to it?
+36,7. He asked about inheritance  polymorphism  abstration encapsulation  etc...
